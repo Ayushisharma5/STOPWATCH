@@ -67,3 +67,4 @@ function stopwatch()
     setTimeout("stopwatch()",10); //10 milisecond
   }
 }
+
